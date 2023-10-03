@@ -1,0 +1,53 @@
+h1 {
+    background-color: lightgrey;
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    text-align: center;
+}
+h2 {
+    background-color: lightslategray;
+    padding: 5px;
+    margin:5px;
+    width: 50%;
+    border-style: solid;
+    text-align: center;
+}
+
+#Meal-Prep{
+    border-style: solid;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+#Snacks {
+    border-style: solid;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+#Home-goods {
+    border-style: solid;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+#Clothes {
+    border-style: solid;
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+img {
+    float:right;
+    padding: 5px;
+}
